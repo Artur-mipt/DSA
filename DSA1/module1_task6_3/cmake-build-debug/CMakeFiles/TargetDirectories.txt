@@ -1,3 +1,0 @@
-/home/artur/DataStructuresAlgorithms/DSA1/module1_task6_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/artur/DataStructuresAlgorithms/DSA1/module1_task6_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/artur/DataStructuresAlgorithms/DSA1/module1_task6_3/cmake-build-debug/CMakeFiles/module1_task6_3.dir
